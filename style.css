@@ -1,0 +1,48 @@
+body,head {
+    background-color:  #E14141;
+    margin: 0 auto;
+    max-width: 1024px;
+    font-family: "Helvetica", "Georgia", serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+  }
+
+  .centerImage
+  {
+  text-align:center;
+  display:block;
+  }
+ header {
+    text-shadow: 1px 1px 1px black;
+    padding: 3px;
+    text-align: center;
+    font-family: 'Permanent Marker', 'cursive','Arial', 'sans-serif';
+    }
+
+#emirates{
+    width: 100%
+}
+
+h2 {
+
+    
+        font-family: 'Oswald', sans-serif, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        color: #CC2936;
+        font-style: italic;
+      
+}
+
+    p {
+        color: #0011FF;
+      }
+
+    p.arsenal {
+        color:wheat
+    }
+
+section{
+
+    background-color: #6AB9B9;
+}
+  
